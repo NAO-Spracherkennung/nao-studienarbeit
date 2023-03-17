@@ -1,0 +1,298 @@
+[
+	{
+		"synonym": "brauchen",
+		"id": 1
+	},
+	{
+		"synonym": "brauche",
+		"id": 1
+	},
+	{
+		"synonym": "brauch",
+		"id": 1
+	},
+	{
+		"synonym": "br\u00e4uchte",
+		"id": 1
+	},
+	{
+		"synonym": " ben\u00f6tigen",
+		"id": 1
+	},
+	{
+		"synonym": "studiengang",
+		"id": 2
+	},
+	{
+		"synonym": "studieng\u00e4nge",
+		"id": 2
+	},
+	{
+		"synonym": "hwr",
+		"id": 3
+	},
+	{
+		"synonym": "uni",
+		"id": 3
+	},
+	{
+		"synonym": "campus",
+		"id": 3
+	},
+	{
+		"synonym": "universit\u00e4t",
+		"id": 3
+	},
+	{
+		"synonym": "hochschule",
+		"id": 3
+	},
+	{
+		"synonym": "ptb",
+		"id": 4
+	},
+	{
+		"synonym": "praxistransferbericht",
+		"id": 4
+	},
+	{
+		"synonym": "praxistransferberichte",
+		"id": 4
+	},
+	{
+		"synonym": "ptbs",
+		"id": 4
+	},
+	{
+		"synonym": "schreiben",
+		"id": 5
+	},
+	{
+		"synonym": "verfassen",
+		"id": 5
+	},
+	{
+		"synonym": "studienarbeit",
+		"id": 6
+	},
+	{
+		"synonym": "studienarbeiten",
+		"id": 6
+	},
+	{
+		"synonym": "informieren",
+		"id": 7
+	},
+	{
+		"synonym": "erkundigen",
+		"id": 7
+	},
+	{
+		"synonym": "schlaumachen",
+		"id": 7
+	},
+	{
+		"synonym": "information",
+		"id": 7
+	},
+	{
+		"synonym": "aufbau",
+		"id": 8
+	},
+	{
+		"synonym": "aufbauen",
+		"id": 8
+	},
+	{
+		"synonym": "zusammensetzen",
+		"id": 8
+	},
+	{
+		"synonym": "zusammensetzung",
+		"id": 8
+	},
+	{
+		"synonym": "strukturieren",
+		"id": 8
+	},
+	{
+		"synonym": "struktur",
+		"id": 8
+	},
+	{
+		"synonym": "bestehen",
+		"id": 8
+	},
+	{
+		"synonym": "besteht",
+		"id": 8
+	},
+	{
+		"synonym": "ablaufen",
+		"id": 8
+	},
+	{
+		"synonym": "laufen",
+		"id": 8
+	},
+	{
+		"synonym": "bachelor",
+		"id": 9
+	},
+	{
+		"synonym": "bachelorabschluss",
+		"id": 9
+	},
+	{
+		"synonym": "beruf",
+		"id": 10
+	},
+	{
+		"synonym": "berufe",
+		"id": 10
+	},
+	{
+		"synonym": "berufsfeld",
+		"id": 10
+	},
+	{
+		"synonym": "berufsfelder",
+		"id": 10
+	},
+	{
+		"synonym": "bachelorarbeit",
+		"id": 11
+	},
+	{
+		"synonym": "bachelorthesis",
+		"id": 11
+	},
+	{
+		"synonym": "modul",
+		"id": 12
+	},
+	{
+		"synonym": "fach",
+		"id": 12
+	},
+	{
+		"synonym": "f\u00e4cher",
+		"id": 12
+	},
+	{
+		"synonym": "module",
+		"id": 12
+	},
+	{
+		"synonym": "sagen",
+		"id": 13
+	},
+	{
+		"synonym": "sag",
+		"id": 13
+	},
+	{
+		"synonym": "erz\u00e4hlen",
+		"id": 13
+	},
+	{
+		"synonym": "erz\u00e4hl",
+		"id": 13
+	},
+	{
+		"synonym": "gr\u00fcndung",
+		"id": 14
+	},
+	{
+		"synonym": "gr\u00fcnden",
+		"id": 14
+	},
+	{
+		"synonym": "student",
+		"id": 15
+	},
+	{
+		"synonym": "studenten",
+		"id": 15
+	},
+	{
+		"synonym": "studentin",
+		"id": 15
+	},
+	{
+		"synonym": "studierende",
+		"id": 15
+	},
+	{
+		"synonym": "studierender",
+		"id": 15
+	},
+	{
+		"synonym": "sch\u00fcler",
+		"id": 15
+	},
+	{
+		"synonym": "sch\u00fclerin",
+		"id": 15
+	},
+	{
+		"synonym": "person",
+		"id": 15
+	},
+	{
+		"synonym": "personen",
+		"id": 15
+	},
+	{
+		"synonym": "haben",
+		"id": 16
+	},
+	{
+		"synonym": "hat",
+		"id": 16
+	},
+	{
+		"synonym": "besitzt",
+		"id": 16
+	},
+	{
+		"synonym": "besitzen",
+		"id": 16
+	},
+	{
+		"synonym": "vorhanden",
+		"id": 16
+	},
+	{
+		"synonym": "vertreten",
+		"id": 16
+	},
+	{
+		"synonym": "geben",
+		"id": 16
+	},
+	{
+		"synonym": "bewerben",
+		"id": 17
+	},
+	{
+		"synonym": "bewerbung",
+		"id": 17
+	},
+	{
+		"synonym": "bewerbe",
+		"id": 17
+	},
+	{
+		"synonym": "bewirbt",
+		"id": 17
+	},
+	{
+		"synonym": "informatikstudiengang",
+		"id": 18
+	},
+	{
+		"synonym": "informatikstudium",
+		"id": 18
+	}
+]
