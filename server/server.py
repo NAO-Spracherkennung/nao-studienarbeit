@@ -64,10 +64,13 @@ def post_request():
         i += 1
     caseID = counter.count_ids(found_words)
     if caseID is None:
+        print("nicht verstanden")
         return jsonify("Ich habe diese Frage nicht verstanden oder ich habe dazu leider keine Antwort.")
     answer = db_connector.get_answer(caseID)
     if answer is None:
+        print("-1")
         return jsonify("-1")
+    print(answer)
     return answer
 
 
